@@ -76,6 +76,3 @@
     </td>
   </tr>
 </table>
-## 🐍 Contribution Snake
-
-![snake animation](https://raw.githubusercontent.com/nguyendung-dev/nguyendung-dev/output/dist/snake.svg)
